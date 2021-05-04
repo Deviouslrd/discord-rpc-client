@@ -1,0 +1,25 @@
+{
+  "name": "discord-rpc-client",
+  "version": "0.0.1",
+  "description": "Discord RPC client made for custom rich presences.",
+  "main": "index.js",
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.0-beta-rc.3",
+    "@tauri-apps/cli": "^1.0.0-beta-rc.4",
+    "discord-rpc": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deviouslrd/discord-rpc-client.git"
+  },
+  "author": "deviouslrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deviouslrd/discord-rpc-client/issues"
+  },
+  "homepage": "https://github.com/Deviouslrd/discord-rpc-client#readme"
+}
